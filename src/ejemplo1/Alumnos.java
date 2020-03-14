@@ -7,7 +7,7 @@ package ejemplo1;
 
 /**
  *
- * @author juan
+ * @author juan fernández
  */
 public class Alumnos extends javax.swing.JFrame {
 
